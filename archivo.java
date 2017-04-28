@@ -5,3 +5,11 @@ commit de Cristhian gomez
 
 
 antontiruriruriru
+=======
+
+
+commit de yor jaggy
+
+
+otro commit de jaggy
+>>>>>>> bitcp_branch
